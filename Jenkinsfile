@@ -9,8 +9,8 @@ node {
     }
 }
 node {
-    stage('Build'){
-        echo "Building"
+    stage('Build2'){
+        echo "Building2"
     }
     
 stage('Get approval'){
