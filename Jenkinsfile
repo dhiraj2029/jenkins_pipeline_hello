@@ -12,6 +12,7 @@ node {
     stage('Build2'){
         echo "Building2"
     }
+}
     
 stage('Get approval'){
     input "Deploy to qa?"
